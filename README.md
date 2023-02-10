@@ -1,4 +1,4 @@
-# 📃 Lista ordenada utilizando NodeJS
+# 📃 Lista ordenada alfabéticamente utilizando NodeJS
 Projeto individual do módulo 5 - Programadores Cariocas
 ## Proposta:
 Vamos usar o Node para montar um código que vai receber uma lista de
